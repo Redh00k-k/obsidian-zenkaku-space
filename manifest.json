@@ -2,8 +2,9 @@
 	"id": "obsidian-zenkaku-space",
 	"name": "Zenkaku Space",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
+	"minAppVersion": "1.4.13",
 	"description": "Show zenkaku(full-width) space.",
+	"isDesktopOnly": false,
 	"author": "Redh00k-k",
 	"authorUrl": "https://github.com/Redh00k-k"
 }
